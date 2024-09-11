@@ -8,7 +8,7 @@
 </br>
 <div align="center">
  
- 💻 I’m currently working on **C++**
+ 💻 I’m currently working on **web**
  
  📚 I’m currently learning **HTML, CSS, JS, React, etc.**
 
