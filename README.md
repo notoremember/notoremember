@@ -8,9 +8,9 @@
 </br>
 <div align="center">
  
- 💻 I’m currently working on **web**
+ 💻 I’m currently working on **nothing**
  
- 📚 I’m currently learning **HTML, CSS, JS, React, etc.**
+ 📚 I’m currently learning **--**
 
  💬 Ask me about **life, bugbounty or anything [here](https://github.com/notoremember/notoremember/issues)**
 
